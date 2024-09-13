@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "66dac74ac67577191665c140"
+  },
+  "FormID": "20240827080127779759",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-06T09:13:08.378Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": "running",
+  "MappingResponse": null,
+  "MappingStarted": {
+    "$date": "2024-09-11T14:41:21.405Z"
+  },
+  "MappingStatusUpdated": null,
+  "SDMXCSVFileUploadedStarted": {
+    "$date": "2024-09-13T13:01:31.770Z"
+  },
+  "SDMXCSVFileUploadedStatus": "failed",
+  "SDMXCSVFileUploadedUpdated": {
+    "$date": "2024-09-13T13:01:31.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e0f6f169f36cb76bc5a23f"
+  },
+  "FormID": "20240824171224172616",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e0f6f169f36cb76bc5a240"
+  },
+  "FormID": "20240824171224172616",
+  "TableID": 1,
+  "ListID": 2,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e0f6f169f36cb76bc5a241"
+  },
+  "FormID": "20240824171224172616",
+  "TableID": 1,
+  "ListID": 3,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e0f7f669f36cb76bc5a266"
+  },
+  "FormID": "20240824161730978023",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-12T08:09:07.904Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e0f84d4d582d142c96b77c"
+  },
+  "FormID": "20240830122635873609",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-12T07:50:07.995Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null,
+  "SDMXCSVFileUploadedStarted": {
+    "$date": "2024-09-13T08:04:52.325Z"
+  },
+  "SDMXCSVFileUploadedStatus": "failed",
+  "SDMXCSVFileUploadedUpdated": {
+    "$date": "2024-09-13T08:04:52.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e115494d582d142c96b8e1"
+  },
+  "FormID": "20240820175100821070",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-12T07:33:13.484Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e242e4dc3a2f06bc422d06"
+  },
+  "FormID": "20240823012859542250",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e242e4dc3a2f06bc422d07"
+  },
+  "FormID": "20240823012859542250",
+  "TableID": 1,
+  "ListID": 2,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e24a6d4d9d78437a50d9a1"
+  },
+  "FormID": "20240819093022490674",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e24a6d4d9d78437a50d9a2"
+  },
+  "FormID": "20240819093022490674",
+  "TableID": 1,
+  "ListID": 2,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e24b6ae2fbce457a38d231"
+  },
+  "FormID": "20240819095902405838",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-12T08:19:38.417Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e24d524d9d78437a50d9b5"
+  },
+  "FormID": "20240819093702761468",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e24e31dc3a2f06bc422dc7"
+  },
+  "FormID": "20240823012934993315",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-13T04:56:33.314Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null,
+  "SDMXCSVFileUploadedStarted": {
+    "$date": "2024-09-13T08:06:39.752Z"
+  },
+  "SDMXCSVFileUploadedStatus": "failed",
+  "SDMXCSVFileUploadedUpdated": {
+    "$date": "2024-09-13T08:06:39.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e24f43dc3a2f06bc422e0c"
+  },
+  "FormID": "20240821091703395252",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e250674d9d78437a50d9ff"
+  },
+  "FormID": "20240822114803930000",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e2506edc3a2f06bc422e45"
+  },
+  "FormID": "20240826102307388408",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25114dc3a2f06bc422e7a"
+  },
+  "FormID": "20240821092329389313",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25372dc3a2f06bc422ee7"
+  },
+  "FormID": "20240823012918429876",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25372dc3a2f06bc422ee8"
+  },
+  "FormID": "20240823012918429876",
+  "TableID": 2,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25372dc3a2f06bc422ee9"
+  },
+  "FormID": "20240823012918429876",
+  "TableID": 2,
+  "ListID": 2,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25372dc3a2f06bc422eea"
+  },
+  "FormID": "20240823012918429876",
+  "TableID": 3,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25412dc3a2f06bc422f19"
+  },
+  "FormID": "20240821103036836838",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e2553f4d9d78437a50daac"
+  },
+  "FormID": "20240821113352989093",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e258b6dc3a2f06bc422ff1"
+  },
+  "FormID": "20240823000816474469",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e258b6dc3a2f06bc422ff2"
+  },
+  "FormID": "20240823000816474469",
+  "TableID": 1,
+  "ListID": 2,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e258b6dc3a2f06bc422ff3"
+  },
+  "FormID": "20240823000816474469",
+  "TableID": 2,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e258b6dc3a2f06bc422ff4"
+  },
+  "FormID": "20240823000816474469",
+  "TableID": 2,
+  "ListID": 2,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25a64e2fbce457a38d304"
+  },
+  "FormID": "20240821144606433435",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25ebee2fbce457a38d317"
+  },
+  "FormID": "20240821141949778699",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e25f62dc3a2f06bc42306e"
+  },
+  "FormID": "20240821140534823988",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e38c13dc3a2f06bc423478"
+  },
+  "FormID": "20240820182834169183",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-13T05:00:22.196Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+},
+{
+  "_id": {
+    "$oid": "66e38c13dc3a2f06bc423479"
+  },
+  "FormID": "20240820182834169183",
+  "TableID": 1,
+  "ListID": 2,
+  "ConnectorStatus": "running",
+  "ConnectorResponse": null,
+  "ConnectorStarted": {
+    "$date": "2024-09-13T05:23:21.144Z"
+  },
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null
+}]

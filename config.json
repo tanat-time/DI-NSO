@@ -1,0 +1,686 @@
+{
+    "NsoDepartment": "9",
+    "StatisticsName": "สถาบันยานยนต์",
+    "StatisticsTable": [
+        {
+            "TableID": 1,
+            "SourceTableName": "สถิติปริมาณการผลิตรถจักรยานยนต์ในประเทศ",
+            "SourceTableUrl": "https://data.thaiauto.or.th/auto/motorcycle-stat/stat-motorcycle-production-volumn/stat-motorcycle-production-volumn-thai.html",
+            "SourceMinistry": "MIN18",
+            "SourceDepartment": "DEP242",
+            "SourceDataOwner": true,
+            "SourceTableStyle": "1",
+            "SourceTableType": "2",
+            "SourceTableTypeFromUrl": "2",
+            "SourceTableTypeFromUrlPdfPageNo": "",
+            "SourceTableTypeFromUrlExcelSheet": "-",
+            "SourceTableFiles": [],
+            "StatisticsList": [
+                {
+                    "ListID": 1,
+                    "StatisticsName": "การผลิตรถจักรยานยนต์ในประเทศ",
+                    "StatisticsCalculation": "1",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "1"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2555,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 2,
+                    "StatisticsName": "การผลิตรถจักรยานยนต์ในประเทศขนาดน้อยกว่าหรือเท่ากับ 150 CC",
+                    "StatisticsCalculation": "1",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "1"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2555,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 3,
+                    "StatisticsName": "การผลิตรถจักรยานยนต์ในประเทศขนาด 150-399 CC",
+                    "StatisticsCalculation": "1",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "1"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2555,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 4,
+                    "StatisticsName": "การผลิตรถจักรยานยนต์ในประเทศขนาดมากกว่าหรือเท่ากับ 400 CC",
+                    "StatisticsCalculation": "1",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "1"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2555,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 5,
+                    "StatisticsName": "ปริมาณการส่งออกรถจักรยานยนต์ที่ผลิตสำเร็จแล้ว",
+                    "StatisticsCalculation": "7",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "1",
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2555,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 6,
+                    "StatisticsName": "ปริมาณการส่งออกรถจักรยานยนต์เฉพาะชิ้นส่วนรถแบบครบชุดสมบูรณ์",
+                    "StatisticsCalculation": "7",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "1",
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2555,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                }
+            ]
+        },
+        {
+            "TableID": 2,
+            "SourceTableName": "สถิติปริมาณการผลิตรถยนต์ในประเทศ",
+            "SourceTableUrl": "https://data.thaiauto.or.th/auto/auto-stat/auto-stat-sale-2/stat-internal-auto-importexport.html",
+            "SourceMinistry": "MIN18",
+            "SourceDepartment": "DEP242",
+            "SourceDataOwner": true,
+            "SourceTableStyle": "1",
+            "SourceTableType": "2",
+            "SourceTableTypeFromUrl": "2",
+            "SourceTableTypeFromUrlPdfPageNo": "",
+            "SourceTableTypeFromUrlExcelSheet": "-",
+            "SourceTableFiles": [],
+            "StatisticsList": [
+                {
+                    "ListID": 1,
+                    "StatisticsName": "มูลค่าการนำเข้ารถยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 2,
+                    "StatisticsName": "มูลค่าการนำเข้ารถยนต์นั่ง",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 3,
+                    "StatisticsName": "มูลค่าการนำเข้ารถบรรทุกและรถโดยสาร",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 4,
+                    "StatisticsName": "มูลค่าการส่งออกรถกระบะ 1 ตัน รถบรรทุกและรถโดยสาร",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 5,
+                    "StatisticsName": "มูลค่าการส่งออกรถตู้",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 6,
+                    "StatisticsName": "มูลค่าการส่งออกชิ้นส่วนครบชุดสมบูรณ์ รถยนต์นั่ง",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 7,
+                    "StatisticsName": "มูลค่าการส่งออกชิ้นส่วนครบชุดสมบูรณ์ รถกระบะ 1 ตัน รถบรรทุก และรถโดยสาร",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 8,
+                    "StatisticsName": "มูลค่าการส่งออกชิ้นส่วนครบชุดสมบูรณ์ รถตู้",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 9,
+                    "StatisticsName": "มูลค่าการนำเข้ารถจักรยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 10,
+                    "StatisticsName": "มูลค่าการส่งออกรถจักรยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 11,
+                    "StatisticsName": "มูลค่าการส่งออกชิ้นส่วนครบชุดสมบูรณ์ รถจักรยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 12,
+                    "StatisticsName": "มูลค่ารวมส่งออกรถจักรยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 13,
+                    "StatisticsName": "มูลค่าการนำเข้าเครื่องยนต์ เพลาส่งกำลังและส่วนประกอบอื่นๆ",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 14,
+                    "StatisticsName": "มูลค่าการนำเข้าส่วนประกอบและอุปกรณ์รถยนต์ รวมโครงรถและตัวถัง",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 15,
+                    "StatisticsName": "มูลค่าการนำเข้ายางรถยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 16,
+                    "StatisticsName": "มูลค่าการนำเข้าชิ้นส่วนอื่นๆ ของรถยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 17,
+                    "StatisticsName": "มูลค่าการนำเข้าชิ้นส่วนอื่นๆ ของรถจักรยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 18,
+                    "StatisticsName": "มูลค่ารวมนำเข้าชิ้นส่วนยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 19,
+                    "StatisticsName": "มูลค่าการส่งออกเครื่องยนต์สันดาปภายในแบบลูกสูบและส่วนประกอบ",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 20,
+                    "StatisticsName": "มูลค่าการส่งออกเครื่องอุปกรณ์ไฟฟ้าสำหรับจุดระเบิดเครื่องยนต์และส่วนประกอบ",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 21,
+                    "StatisticsName": "มูลค่าการส่งออกเพลาส่งกำลังและข้อเหวี่ยง",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 22,
+                    "StatisticsName": "มูลค่าการส่งออกชุดสายไฟรถยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 23,
+                    "StatisticsName": "มูลค่าการส่งออกหม้อแบตเตอรี่และส่วนประกอบ",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 24,
+                    "StatisticsName": "มูลค่าการส่งออกยางยานพาหนะ",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 25,
+                    "StatisticsName": "มูลค่าการส่งออกกระจกนิรภัย กระจกรถยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 26,
+                    "StatisticsName": "มูลค่าการส่งออกชิ้นส่วนอื่นๆ ของรถยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 27,
+                    "StatisticsName": "มูลค่าการส่งออกชิ้นส่วนอื่นๆ ของรถจักรยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                },
+                {
+                    "ListID": 28,
+                    "StatisticsName": "มูลค่ารวมส่งออกชิ้นส่วนยานยนต์",
+                    "StatisticsCalculation": "8",
+                    "Purpose": "เป็นชุดข้อมูลที่ใช้ในโครงการ DI",
+                    "Frequency": [
+                        "3"
+                    ],
+                    "Urgency": "2",
+                    "Area": [
+                        "1"
+                    ],
+                    "AreaOther": "",
+                    "YearStart": 2559,
+                    "YearEnd": 2567,
+                    "ClassifiedDimensions": [],
+                    "Statistics": "2",
+                    "StatisticsBranch": "12"
+                }
+            ]
+        }
+    ]
+}
