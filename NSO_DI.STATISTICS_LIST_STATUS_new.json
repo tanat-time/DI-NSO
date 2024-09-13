@@ -1,0 +1,23 @@
+{
+  "_id": {
+    "$oid": "66e2ea60706285ed74a89827"
+  },
+  "FormID": "20240824010120046995",
+  "TableID": 1,
+  "ListID": 1,
+  "ConnectorStatus": null,
+  "ConnectorResponse": null,
+  "ConnectorStarted": null,
+  "ConnectorStatusUpdated": null,
+  "MappingStatus": null,
+  "MappingResponse": null,
+  "MappingStarted": null,
+  "MappingStatusUpdated": null,
+  "SDMXCSVFileUploadedStatus": null,
+  "SDMXCSVFileUploadedStarted": null,
+  "SDMXCSVFileUploadedUpdated": null,
+  "DLMStatus": null,
+  "DLMResponse": null,
+  "DLMStarted": null,
+  "DLMStatusUpdated": null
+}
